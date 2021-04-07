@@ -4,3 +4,4 @@ My name is Colleen Bove (she/her/hers) and I am currently a Postdoctoral Associa
 
 <img src="https://user-images.githubusercontent.com/45176386/113936889-70663f80-97c6-11eb-943e-c87e500e25ee.JPG" width = "500" />
 
+*And check me out on Twitter for fun ocean content, coding crises, and job post retweeting: [@DrSeaBove](https://twitter.com/DrSeaBove)*
